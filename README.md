@@ -17,17 +17,12 @@ L’idée est de rendre la collection vérifiable : si une image ou un fichier J
 2. Fonctionnement général
 Le fonctionnement du projet est le suivant :
 
-Image générée par IA 
-↓ 
-Hash de l’image 
-↓ 
-Image renommée avec son hash 
-↓ 
-Image mise sur GitHub
-↓ 
-Création du fichier JSON contenant le lien Github de l’image + le hash de l'image
-↓ 
-Hash du fichier JSON
+a) Image générée par IA 
+b) Hash de l’image 
+c) Image renommée avec son hash 
+d) Image mise sur GitHub
+e) Création du fichier JSON contenant le lien Github de l’image + le hash de l'image
+f) Hash du fichier JSON
 
 
 La preuve d'intégrité se fait ainsi:
