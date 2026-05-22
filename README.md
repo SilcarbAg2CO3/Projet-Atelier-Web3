@@ -31,10 +31,10 @@ Hash du fichier JSON
 
 
 La preuve d'intégrité se fait ainsi:
-→ donne le tokenURI
-→ tokenURI ouvre le JSON GitHub
-→ on recalcule le hash du JSON
-→ on compare avec le tokenId du NFT
-→ dans le JSON, on trouve le lien de l’image
-→ on recalcule le hash de l’image
-→ on compare avec le hash écrit dans le JSON
+- donne le tokenURI
+- tokenURI ouvre le JSON GitHub
+- on recalcule le hash du JSON
+- on compare avec le tokenId du NFT
+- dans le JSON, on trouve le lien de l’image
+- on recalcule le hash de l’image
+- on compare avec le hash écrit dans le JSON
