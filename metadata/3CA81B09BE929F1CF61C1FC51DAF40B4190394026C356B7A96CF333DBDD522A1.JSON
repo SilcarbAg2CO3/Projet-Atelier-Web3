@@ -2,34 +2,5 @@
   "name": "Backup Guardian",
   "description": "Backup Guardian est un NFT infalsifiable de la collection Infalsifiable Digital Agents. Son image est liee a un hash SHA-256 et ses metadonnees sont utilisees pour generer un identifiant unique et immutable sur la blockchain.",
   "image": "https://raw.githubusercontent.com/SilcarbAg2CO3/Projet-Atelier-Web3/d8b7b61cec2bbb8f4a3bd1eb4bb6580cf1a9c5b9/images/154058F72E60991B6DC8CA9D94C879A75E0826DF16A6768ECFFE2684C7778F98.png",
-  "attributes": [
-    {
-      "trait_type": "Collection",
-      "value": "Infalsifiable Digital Agents"
-    },
-    {
-      "trait_type": "Role",
-      "value": "Digital Security Agent"
-    },
-    {
-      "trait_type": "Owner Type",
-      "value": "Student 1"
-    },
-    {
-      "trait_type": "Rarity",
-      "value": "Legendary"
-    },
-    {
-      "trait_type": "Image Hash",
-      "value": "154058F72E60991B6DC8CA9D94C879A75E0826DF16A6768ECFFE2684C7778F98"
-    },
-    {
-      "trait_type": "Metadata System",
-      "value": "GitHub + SHA-256"
-    },
-    {
-      "trait_type": "Vesting Rule",
-      "value": "Locked 7 days after mint and 1 day after each transfer"
-    }
-  ]
+  "image_hash": "154058F72E60991B6DC8CA9D94C879A75E0826DF16A6768ECFFE2684C7778F98"
 }
